@@ -1,8 +1,10 @@
 # API Endpoint: Check Quota
 
-## Provider
+## Supported Provider
 - XL Axiata
 - AXIS
+- ~~Indosat~~ (stay tuned!)
+- ~~Telkomsel~~ (stay tuned!)
 
 ## Request
 
@@ -19,7 +21,7 @@
 
 | Parameter | Type   | Description                                       |
 |-----------|--------|---------------------------------------------------|
-| msisdn    | String | The mobile phone number for which the quota will be checked. |
+| msisdn    | String | The mobile phone number to check the quota (must start with '08'). |
 
 ### Example Request
 
