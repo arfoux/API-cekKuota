@@ -1,5 +1,9 @@
 # API Endpoint: Check Quota
 
+## Provider
+- XL Axiata
+- AXIS
+
 ## Request
 
 ### POST https://api.arfoux.me/api/v1/cekkuota
